@@ -1,0 +1,22 @@
+h1,
+#list {
+    font-family: 'Brush Script MT', Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightgreen;
+    color: darkmagenta;
+}
+
+#list {
+    background-color: lightcoral;
+    color: blue;
+}
+
+#dogo {
+    align-content: center;
+    width: 300px;
+    height: auto;
+}
