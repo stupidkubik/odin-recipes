@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Brush Script MT', Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgreen;
+    color: darkmagenta;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    font-family: 'Brush Script MT', Tahoma, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    background-color: lightgreen;
+    color: darkmagenta; 
+}
+
+.styled {
+    font-family: 'Brush Script MT', Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+    color: blue;
+}
+
+#link {
+    font-family: 'Brush Script MT', Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgreen;
+    color: darkmagenta; 
+}
